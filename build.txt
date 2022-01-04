@@ -1,3 +1,0 @@
-displayName = The Merian Mount
-author = GregoriousBIG
-version = 0.2
